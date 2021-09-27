@@ -4,3 +4,4 @@
 2. pip install selenium
 3. pip install keyboard
 
+A good text editor like "Sublime Text"
